@@ -25,8 +25,8 @@ A Python-based tool that analyzes text data (tweets, reviews, comments) to deter
 
 1. Clone the repository:
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone www.linkedin.com/in/aditya-tupe45
+cd aditya-tupe45
 ```
 
 2. Install dependencies:
@@ -81,8 +81,8 @@ print(results)
 
 ## Author ✍️
 - Name: Your Name  
-- GitHub: [yourusername](https://github.com/yourusername)  
-- Email: your.email@example.com  
+- Linked In: [Aditya Tupe]((www.linkedin.com/in/aditya-tupe45))  
+- Email: adityatupe026@gmial.com  
 
 ---
 
