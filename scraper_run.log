@@ -1,0 +1,131 @@
+2025-11-10 08:30:50,234 - INFO - Starting full scrape for brand=google
+2025-11-10 08:30:50,235 - INFO - Starting news fetch process
+2025-11-10 08:30:50,235 - INFO - Fetching news articles for brand: google
+2025-11-10 08:30:53,428 - INFO - Saved 10 articles to google_news.csv
+2025-11-10 08:30:53,431 - INFO - Starting Reddit fetch for brand: google
+2025-11-10 08:30:59,841 - INFO - Saved 20 posts to google_reddit_posts.csv
+2025-11-10 08:30:59,842 - INFO - Finished full scrape for brand=google
+2025-11-10 08:36:25,276 - INFO - Starting full scrape for brand=google
+2025-11-10 08:36:25,277 - INFO - Starting news fetch process
+2025-11-10 08:36:25,277 - INFO - Fetching news articles for brand: google
+2025-11-10 08:36:26,354 - INFO - Saved 10 articles to google_news.csv
+2025-11-10 08:36:26,375 - INFO - Starting Reddit fetch for brand: google
+2025-11-10 08:36:28,933 - INFO - Saved 20 posts to google_reddit_posts.csv
+2025-11-10 08:36:28,933 - INFO - Starting data cleaning process
+2025-11-10 08:41:53,415 - INFO - Starting full scrape for brand=OpenAI
+2025-11-10 08:41:53,416 - INFO - Starting news fetch process
+2025-11-10 08:41:53,416 - INFO - Fetching news articles for brand: OpenAI
+2025-11-10 08:41:54,751 - INFO - Saved 10 articles to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_news.csv
+2025-11-10 08:41:54,753 - INFO - Starting Reddit fetch for brand: OpenAI
+2025-11-10 08:41:59,996 - INFO - Saved 20 posts to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_reddit_posts.csv
+2025-11-10 08:41:59,998 - INFO - Starting data cleaning process for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_news.csv
+2025-11-10 08:42:00,050 - ERROR - Error cleaning data: No module named 'openpyxl'
+2025-11-10 08:42:00,053 - INFO - Starting data cleaning process for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_reddit_posts.csv
+2025-11-10 08:42:00,094 - ERROR - Error cleaning data: No module named 'openpyxl'
+2025-11-10 08:42:00,096 - INFO - Finished full scrape for brand=OpenAI
+2025-11-10 08:42:46,976 - INFO - Starting full scrape for brand=OpenAI
+2025-11-10 08:42:46,976 - INFO - Starting news fetch process
+2025-11-10 08:42:46,976 - INFO - Fetching news articles for brand: OpenAI
+2025-11-10 08:42:48,552 - INFO - Saved 10 articles to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_news.csv
+2025-11-10 08:42:48,556 - INFO - Starting Reddit fetch for brand: OpenAI
+2025-11-10 08:42:51,606 - INFO - Saved 20 posts to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_reddit_posts.csv
+2025-11-10 08:42:51,608 - INFO - Starting data cleaning process for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_news.csv
+2025-11-10 08:42:52,175 - INFO - Cleaned data saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_news_cleaned.xlsx
+2025-11-10 08:42:52,176 - INFO - Starting data cleaning process for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_reddit_posts.csv
+2025-11-10 08:42:52,237 - INFO - Cleaned data saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_reddit_posts_cleaned.xlsx
+2025-11-10 08:42:52,238 - INFO - Finished full scrape for brand=OpenAI
+2025-11-10 08:59:24,041 - INFO - Starting full scrape for brand=OpenAI
+2025-11-10 08:59:24,041 - INFO - Starting news fetch process
+2025-11-10 08:59:24,041 - INFO - Fetching news articles for brand: OpenAI
+2025-11-10 08:59:24,852 - INFO - Saved 10 articles to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_news.csv
+2025-11-10 08:59:24,854 - INFO - Starting Reddit fetch for brand: OpenAI
+2025-11-10 08:59:27,833 - INFO - Saved 20 posts to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_reddit_posts.csv
+2025-11-10 08:59:27,834 - INFO - Starting data cleaning process for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_news.csv
+2025-11-10 08:59:28,154 - INFO - Cleaned data saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_news_cleaned.xlsx
+2025-11-10 08:59:28,404 - INFO - Starting data cleaning process for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_reddit_posts.csv
+2025-11-10 08:59:28,446 - INFO - Cleaned data saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_reddit_posts_cleaned.xlsx
+2025-11-10 08:59:28,466 - ERROR - Error during processing: 'description'
+2025-11-10 09:01:57,988 - INFO - Starting full scrape for brand=OpenAI
+2025-11-10 09:01:57,988 - INFO - Starting news fetch process
+2025-11-10 09:01:57,988 - INFO - Fetching news articles for brand: OpenAI
+2025-11-10 09:01:58,834 - INFO - Saved 10 articles to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_news.csv
+2025-11-10 09:01:58,836 - INFO - Starting Reddit fetch for brand: OpenAI
+2025-11-10 09:02:00,806 - INFO - Saved 20 posts to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_reddit_posts.csv
+2025-11-10 09:02:00,807 - INFO - Starting data cleaning process for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_news.csv
+2025-11-10 09:02:01,134 - INFO - Cleaned data saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_news_cleaned.xlsx
+2025-11-10 09:02:01,370 - INFO - Starting data cleaning process for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_reddit_posts.csv
+2025-11-10 09:02:01,413 - INFO - Cleaned data saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_reddit_posts_cleaned.xlsx
+2025-11-10 09:02:01,433 - ERROR - Error during processing: 'description'
+2025-11-10 09:05:18,614 - INFO - Starting full scrape for brand=OpenAI
+2025-11-10 09:05:18,614 - INFO - Starting news fetch process
+2025-11-10 09:05:18,614 - INFO - Fetching news articles for brand: OpenAI
+2025-11-10 09:05:20,014 - INFO - Saved 10 articles to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_news.csv
+2025-11-10 09:05:20,018 - INFO - Starting Reddit fetch for brand: OpenAI
+2025-11-10 09:05:22,572 - INFO - Saved 20 posts to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_reddit_posts.csv
+2025-11-10 09:05:22,573 - INFO - Starting data cleaning process for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_news.csv
+2025-11-10 09:05:22,991 - INFO - Cleaned data saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_news_cleaned.xlsx
+2025-11-10 09:05:22,992 - INFO - Starting sentiment analysis for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_news_cleaned.xlsx
+2025-11-10 09:05:23,620 - INFO - Sentiment analysis complete. Results saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data
+2025-11-10 09:05:23,622 - INFO - Starting data cleaning process for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_reddit_posts.csv
+2025-11-10 09:05:23,694 - INFO - Cleaned data saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_reddit_posts_cleaned.xlsx
+2025-11-10 09:05:23,695 - INFO - Starting sentiment analysis for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\OpenAI_reddit_posts_cleaned.xlsx
+2025-11-10 09:05:23,729 - ERROR - Error during processing: 'description'
+2025-11-10 09:06:49,283 - INFO - Starting full scrape for brand=google
+2025-11-10 09:06:49,283 - INFO - Starting news fetch process
+2025-11-10 09:06:49,283 - INFO - Fetching news articles for brand: google
+2025-11-10 09:06:51,228 - INFO - Saved 10 articles to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\google_news.csv
+2025-11-10 09:06:51,230 - INFO - Starting Reddit fetch for brand: google
+2025-11-10 09:06:56,239 - INFO - Saved 20 posts to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\google_reddit_posts.csv
+2025-11-10 09:06:56,241 - INFO - Starting data cleaning process for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\google_news.csv
+2025-11-10 09:06:56,691 - INFO - Cleaned data saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\google_news_cleaned.xlsx
+2025-11-10 09:06:56,692 - INFO - Starting sentiment analysis for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\google_news_cleaned.xlsx
+2025-11-10 09:06:57,193 - INFO - Sentiment analysis complete. Results saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data
+2025-11-10 09:06:57,196 - INFO - Starting data cleaning process for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\google_reddit_posts.csv
+2025-11-10 09:06:57,263 - INFO - Cleaned data saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\google_reddit_posts_cleaned.xlsx
+2025-11-10 09:06:57,264 - INFO - Starting sentiment analysis for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\google_reddit_posts_cleaned.xlsx
+2025-11-10 09:06:57,299 - ERROR - Error during processing: 'description'
+2025-11-10 09:17:54,042 - INFO - Starting full scrape for brand=google
+2025-11-10 09:17:54,043 - INFO - Starting news fetch process
+2025-11-10 09:17:54,043 - INFO - Fetching news articles for brand: google
+2025-11-10 09:17:54,910 - INFO - Saved 10 articles to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\google_news.csv
+2025-11-10 09:17:54,912 - INFO - Starting Reddit fetch for brand: google
+2025-11-10 09:17:58,098 - INFO - Saved 20 posts to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\google_reddit_posts.csv
+2025-11-10 09:17:58,099 - INFO - Starting data cleaning process for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\google_news.csv
+2025-11-10 09:17:58,556 - INFO - Cleaned data saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\google_news_cleaned.xlsx
+2025-11-10 09:17:58,557 - INFO - Starting sentiment analysis for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\google_news_cleaned.xlsx
+2025-11-10 09:17:59,061 - INFO - Sentiment analysis complete. Results saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data
+2025-11-10 09:17:59,063 - INFO - Starting data cleaning process for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\google_reddit_posts.csv
+2025-11-10 09:17:59,153 - INFO - Cleaned data saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\google_reddit_posts_cleaned.xlsx
+2025-11-10 09:17:59,154 - INFO - Starting sentiment analysis for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\google_reddit_posts_cleaned.xlsx
+2025-11-10 09:17:59,595 - INFO - Sentiment analysis complete. Results saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data
+2025-11-10 09:17:59,598 - INFO - Finished full scrape for brand=google
+2025-11-10 09:20:13,404 - INFO - Starting full scrape for brand=microsoft
+2025-11-10 09:20:13,404 - INFO - Starting news fetch process
+2025-11-10 09:20:13,404 - INFO - Fetching news articles for brand: microsoft
+2025-11-10 09:20:14,771 - INFO - Saved 10 articles to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\microsoft_news.csv
+2025-11-10 09:20:14,773 - INFO - Starting Reddit fetch for brand: microsoft
+2025-11-10 09:20:18,156 - INFO - Saved 20 posts to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\microsoft_reddit_posts.csv
+2025-11-10 09:20:18,157 - INFO - Starting data cleaning process for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\microsoft_news.csv
+2025-11-10 09:20:18,618 - INFO - Cleaned data saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\microsoft_news_cleaned.xlsx
+2025-11-10 09:20:18,619 - INFO - Starting sentiment analysis for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\microsoft_news_cleaned.xlsx
+2025-11-10 09:20:19,153 - INFO - Sentiment analysis complete. Results saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data
+2025-11-10 09:20:19,156 - INFO - Starting data cleaning process for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\microsoft_reddit_posts.csv
+2025-11-10 09:20:19,237 - INFO - Cleaned data saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\microsoft_reddit_posts_cleaned.xlsx
+2025-11-10 09:20:19,238 - INFO - Starting sentiment analysis for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\microsoft_reddit_posts_cleaned.xlsx
+2025-11-10 09:20:19,578 - INFO - Sentiment analysis complete. Results saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data
+2025-11-10 09:20:19,581 - INFO - Finished full scrape for brand=microsoft
+2025-11-10 09:23:43,972 - INFO - Starting full scrape for brand=apple
+2025-11-10 09:23:43,972 - INFO - Starting news fetch process
+2025-11-10 09:23:43,973 - INFO - Fetching news articles for brand: apple
+2025-11-10 09:23:45,540 - INFO - Saved 10 articles to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\apple_news.csv
+2025-11-10 09:23:45,542 - INFO - Starting Reddit fetch for brand: apple
+2025-11-10 09:23:49,201 - INFO - Saved 20 posts to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\apple_reddit_posts.csv
+2025-11-10 09:23:49,203 - INFO - Starting data cleaning process for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\apple_news.csv
+2025-11-10 09:23:49,625 - INFO - Cleaned data saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\apple_news_cleaned.xlsx
+2025-11-10 09:23:49,626 - INFO - Starting sentiment analysis for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\apple_news_cleaned.xlsx
+2025-11-10 09:23:50,162 - INFO - Sentiment analysis complete. Results saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data
+2025-11-10 09:23:50,164 - INFO - Starting data cleaning process for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\apple_reddit_posts.csv
+2025-11-10 09:23:50,230 - INFO - Cleaned data saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data\apple_reddit_posts_cleaned.xlsx
+2025-11-10 09:23:50,231 - INFO - Starting sentiment analysis for D:\LANG\Tralis\Web Scraper\Brand sentiment\data\apple_reddit_posts_cleaned.xlsx
+2025-11-10 09:23:50,579 - INFO - Sentiment analysis complete. Results saved to D:\LANG\Tralis\Web Scraper\Brand sentiment\data
+2025-11-10 09:23:50,582 - INFO - Finished full scrape for brand=apple

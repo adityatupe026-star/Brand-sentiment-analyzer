@@ -1,0 +1,32 @@
+# HTTP requests
+requests>=2.31.0
+
+# Reddit API
+praw>=7.7.0
+
+# Twitter API (if using Tweepy or another API wrapper)
+tweepy>=4.15.0
+
+# GNews API (no extra lib required, just requests)
+
+# Data handling
+pandas>=2.1.0
+
+# Sentiment analysis / NLP
+textblob>=0.17.1
+vaderSentiment>=3.3.2
+
+# Visualization
+plotly>=5.18.0
+matplotlib>=3.8.0
+wordcloud>=1.8.2
+
+# Dashboard
+streamlit>=1.26.0
+
+# Scheduling
+schedule>=1.2.0
+APScheduler>=3.10.0
+
+# Optional: Environment variables handling
+python-dotenv>=1.0.0
